@@ -1,0 +1,25 @@
+.header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.name {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.description {
+    font-size: 16px;
+    margin-top: 0px;
+}
