@@ -3,4 +3,16 @@
 
 body {
     font-family: 'Muli', sans-serif;
+    background: linear-gradient(to right, #205df3, #f36f20);
+}
+
+#root {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.app {
+    width: 100%;
+    max-width: 828px;
 }

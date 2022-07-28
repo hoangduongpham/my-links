@@ -1,0 +1,12 @@
+[
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/hoang-duong-pham/",
+        "icon": "src/assets/img/linkedin.png"
+    },
+    {
+        "name": "GitHub",
+        "link": "https://github.com/hoangduongpham",
+        "icon": "src/assets/img/github.png"
+    }
+]

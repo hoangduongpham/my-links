@@ -1,0 +1,44 @@
+.links-wrapper {
+    padding: 10px
+}
+
+.link-item {
+    background-color: #000000;
+    border: 2px solid #000000;
+    margin: 0 5px 20px 5px;
+    border-radius: 15px;
+}
+
+.link {
+    align-items: center;
+    color: #FFFFFF;
+    display: grid;
+    grid-template: 100% / 15% 70% 15%;
+    font-size: 16px;
+    justify-items: center;
+    text-decoration: none;
+}
+
+.icon-wrapper {
+    display: flex;
+    padding-left: 28px;
+    width: 100%;
+}
+
+.icon {
+    filter: invert(100%);
+    height: 32px;
+    width: 32px;
+}
+
+.link-item:hover {
+    background-color: transparent;
+}
+
+.link-item:hover .link {
+    color: #000000;
+}
+
+.link-item:hover .icon {
+    filter: invert(0%);
+}
