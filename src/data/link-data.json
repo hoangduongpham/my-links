@@ -1,6 +1,21 @@
 [
     {
-        "name": "LinkedIn",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/hwya.2829",
+        "icon": "src/assets/img/facebook.png"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/_xxhwya.2829_/",
+        "icon": "src/assets/img/instagram.png"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/hoangduong2829",
+        "icon": "src/assets/img/twitter.png"
+    },
+    {
+        "name": "Linkedin",
         "link": "https://www.linkedin.com/in/hoang-duong-pham/",
         "icon": "src/assets/img/linkedin.png"
     },
@@ -8,5 +23,10 @@
         "name": "GitHub",
         "link": "https://github.com/hoangduongpham",
         "icon": "src/assets/img/github.png"
+    },
+    {
+        "name": "Email",
+        "link": "mailto:hoangduongpham2001@gmail.com",
+        "icon": "src/assets/img/email.png"
     }
 ]
